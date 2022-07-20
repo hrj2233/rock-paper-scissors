@@ -1,0 +1,23 @@
+body {
+	text-align: center;
+	background-color: antiquewhite;
+	color: gray;
+	font-size: 25px;
+}
+.result {
+	margin: 100px;
+}
+.selctor {
+	margin-top: 100px;
+}
+button {
+	padding: 150px;
+	border: none;
+	background: white;
+	border-radius: 10px;
+	margin: 0 20px;
+	cursor: pointer;
+}
+button:hover {
+	background-color: bisque;
+}
